@@ -26,17 +26,12 @@
     ├── {domain}
     Each page has their own domain parent folder
         ├── index.tsx
-        UI / View file
-        ├── hooks.tsx
-        State / Functions file
-        ├── index.module.scss
         SCSS File
 ├── styles
     Global SCSS Files
-├── tests
-    Testing files
-├── types
-    TypeScript types declaration
 └── utils
     Reusable helper functions
 ```
+
+#### Notes
+Time taken: 4 Hours

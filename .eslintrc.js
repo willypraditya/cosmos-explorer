@@ -21,6 +21,7 @@ module.exports = {
   },
   plugins: ['react', '@typescript-eslint'],
   rules: {
+    'arrow-body-style': 0,
     'react/react-in-jsx-scope': 'off',
     'no-use-before-define': 'off',
     'space-before-function-paren': 'off',
